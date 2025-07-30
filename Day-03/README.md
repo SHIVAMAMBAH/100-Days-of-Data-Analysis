@@ -1,4 +1,4 @@
-This is the Second Notebook of the `100 Days of Data Analysis`.
+This is the Third Notebook of the `100 Days of Data Analysis`.
 
 ### Basic Points about the notebook
 - It is written in python.
